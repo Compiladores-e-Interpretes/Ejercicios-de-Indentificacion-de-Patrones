@@ -1,0 +1,12 @@
+# Flex outputs
+lex.yy.c
+
+# Binaries (one per exercise)
+detector_mayusculas
+limpiador_espacios
+validador_ips
+extractor_enlaces_markdown
+analizador_fechas
+
+# macOS
+.DS_Store
